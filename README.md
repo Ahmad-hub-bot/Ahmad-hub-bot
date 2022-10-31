@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmad_Rehman
 - 👀 I’m interested in meta
 - 🌱 I’m currently learning block chain 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on smart contract 
 - 📫 you can reach me ahmadnz7687@gmail.com
 
 <!---
